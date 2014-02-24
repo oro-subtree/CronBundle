@@ -1,6 +1,6 @@
 <?php
 
-namespace Oro\Bundle\CronBundle\Migration\v1_0;
+namespace Oro\Bundle\CronBundle\Migrations\Schemas\v1_0;
 
 use Doctrine\DBAL\Schema\Schema;
 use Oro\Bundle\InstallerBundle\Migrations\Migration;
