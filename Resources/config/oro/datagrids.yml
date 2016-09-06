@@ -1,4 +1,4 @@
-datagrid:
+datagrids:
     jobs-grid:
         acl_resource: oro_jobs
         source:
